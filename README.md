@@ -4,13 +4,6 @@ A minimal **token-gated access** system built on **Stellar Soroban smart contrac
 Only users with valid access (granted via contract or token ownership) can view gated content.  
 Wallet authentication and contract interaction are handled via **Freighter Wallet** and **Soroban CLI**.
 
-📄 Smart Contract Details
-Contract Name: access_contract
-Language: Rust (Soroban)
-Network: Stellar Testnet
-Contract ID: CDVBQS4QEX3Z3RHIMGG3JDKL2SRPG7WXOP4YOKAGTEHMA2YSFJSEKQDT
-
-
 ## 🧩 Project Structure
 ```
 
@@ -201,6 +194,11 @@ soroban contract invoke \
 * Integrate Stellar Horizon API for asset-based access control.
 * Deploy backend to cloud and host frontend on Vercel/Netlify.
 
+📄 Smart Contract Details
+Contract Name: access_contract
+Language: Rust (Soroban)
+Network: Stellar Testnet
+Contract ID: CDVBQS4QEX3Z3RHIMGG3JDKL2SRPG7WXOP4YOKAGTEHMA2YSFJSEKQDT
 
 ![Contract Details](image-1.png)
 
