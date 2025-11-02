@@ -200,5 +200,5 @@ Language: Rust (Soroban)
 Network: Stellar Testnet
 Contract ID: CDVBQS4QEX3Z3RHIMGG3JDKL2SRPG7WXOP4YOKAGTEHMA2YSFJSEKQDT
 
-![Contract Details](image-1.png)
+![Contract Details](image.png)
 
