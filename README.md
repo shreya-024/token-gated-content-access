@@ -30,6 +30,7 @@ token-gated-content-access/
 2. **Soroban CLI** installed  
    ```
    cargo install --locked soroban-cli
+   ```
 ````
 
 3. **Freighter Wallet** browser extension
@@ -40,8 +41,6 @@ token-gated-content-access/
    ```
    CDVBQS4QEX3Z3RHIMGG3JDKL2SRPG7WXOP4YOKAGTEHMA2YSFJSEKQDT
    ```
-
-
 
 ## 🚀 Setup Instructions
 
