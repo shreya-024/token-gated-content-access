@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0a0f0d;
+  color: #c7f9cc;
+  font-family: Consolas, 'Courier New', monospace;
+}
+
+.home-container {
+  background-color: #0d1b1e;
+  border: 1px solid #183d3d;
+  border-radius: 8px;
+  padding: 40px;
+  width: 400px;
+  text-align: center;
+  box-shadow: 0 0 20px -5px rgba(0, 255, 127, 0.2);
+}
+
+.home-title {
+  color: #80ed99;
+  font-size: 28px;
+  margin-bottom: 12px;
+}
+
+.home-subtext {
+  color: #57cc99;
+  font-size: 14px;
+  margin-bottom: 32px;
+}
+
+.home-btn {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #38a169;
+  color: #38a169;
+  background: transparent;
+  font-weight: 600;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+}
+
+.home-btn:hover {
+  background: rgba(56, 161, 105, 0.1);
+  box-shadow: 0 0 15px #38a16966;
+}
+
+.home-wallet {
+  margin-top: 24px;
+  border-top: 1px solid #183d3d;
+  padding-top: 16px;
+  color: #57cc99;
+  font-size: 13px;
+}
+
+.wallet-address {
+  display: block;
+  margin-top: 8px;
+  padding: 10px;
+  border: 1px solid #183d3d;
+  border-radius: 6px;
+  background-color: #0a0f0d;
+  color: #80ed99;
+  word-break: break-all;
+}
+
+footer {
+  margin-top: 40px;
+  color: rgba(87, 204, 153, 0.7);
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+footer span {
+  color: #80ed99;
+}
