@@ -4,6 +4,12 @@ A minimal **token-gated access** system built on **Stellar Soroban smart contrac
 Only users with valid access (granted via contract or token ownership) can view gated content.  
 Wallet authentication and contract interaction are handled via **Freighter Wallet** and **Soroban CLI**.
 
+📄 Smart Contract Details
+Contract Name: access_contract
+Language: Rust (Soroban)
+Network: Stellar Testnet
+Contract ID: CDVBQS4QEX3Z3RHIMGG3JDKL2SRPG7WXOP4YOKAGTEHMA2YSFJSEKQDT
+
 
 ## 🧩 Project Structure
 ```
@@ -23,16 +29,14 @@ token-gated-content-access/
 └── README.md
 
 ````
-
 ## ⚙️ Prerequisites
 
 1. **Node.js** (>=18)
 2. **Soroban CLI** installed  
    ```
    cargo install --locked soroban-cli
-   ```
+   
 ````
-
 3. **Freighter Wallet** browser extension
 4. **Testnet Account** created at [https://laboratory.stellar.org/#account-creator?network=test](https://laboratory.stellar.org/#account-creator?network=test)
 5. **WASM Contract deployed** on Stellar Testnet
@@ -46,7 +50,7 @@ token-gated-content-access/
 
 ### 1. Clone Repository
 
-```
+
 git clone https://github.com/shreya-024/token-gated-content-access.git
 cd token-gated-content-access
 ```
@@ -65,8 +69,6 @@ Ensure your Soroban CLI has an **admin identity**:
 soroban keys generate admin
 soroban keys ls
 ```
-
----
 
 ## 🖥️ Backend Setup
 
