@@ -164,13 +164,10 @@ http://localhost:5173/
 - [![Watch Demo](images/home.png)](demo.mp4)
 
 ### 🖼️ Screenshots
-| Page | Preview |
-|------|----------|
-| Home | ![Home](images/home.png) |
-| Dashboard | ![Dashboard](images/dashboard.png) |
-| No Access | ![No Access](images/noaccess.png) |
-| PdfPage | ![Pdf Page](images/pdf.png) |
-| APIPage | ![API Page](images/api.png) |
+<img src="iimages/dashboard.png" alt="Dashboard" width="400"/>
+<img src="images/noaccess.png" alt="No Access" width="400"/>
+<img src="images/pdf.png" alt="Pdf Page" width="400"/>
+<img src="images/api.png" alt="API Page" width="400"/>
 
 ---
 
