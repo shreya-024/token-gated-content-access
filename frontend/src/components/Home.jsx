@@ -33,6 +33,40 @@ export default function Home() {
 
   return (
     <div className="home-body">
+      <img
+        src="/download.png"
+        alt="Stellar"
+        style={{
+          position: "fixed",
+          top: "20px",
+          left: "20px",
+          width: "60px",
+          height: "60px",
+          borderRadius: "50%",
+          border: "2px solid #80ed99",
+          boxShadow: "0 0 12px #80ed9966",
+          backgroundColor: "#0a0f0d",
+          objectFit: "cover",
+          zIndex: 1000,
+        }}
+      />
+      <img
+        src="/risein.png"
+        alt="RiseIn"
+        style={{
+          position: "fixed",
+          top: "20px",
+          right: "20px",
+          width: "60px",
+          height: "60px",
+          borderRadius: "50%",
+          border: "2px solid #80ed99",
+          boxShadow: "0 0 12px #80ed9966",
+          backgroundColor: "#0a0f0d",
+          objectFit: "cover",
+          zIndex: 1000,
+        }}
+      />
       <div className="home-container">
         <h1 className="home-title">Token Gated Access</h1>
         <p className="home-subtext">

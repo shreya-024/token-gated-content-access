@@ -26,14 +26,14 @@ body, html {
 }
 
 .home-title {
-  font-size: 2rem;
+  font-size: 25px;
   color: #80ed99;
   margin-bottom: 1rem;
 }
 
 .home-subtext {
   color: #57cc99;
-  font-size: 0.9rem;
+  font-size: 15px;
   margin-bottom: 2rem;
 }
 
