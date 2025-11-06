@@ -161,7 +161,7 @@ http://localhost:5173/
 ## 📚 Documentation & Media
 
 ### 🎥 Demo Video
- [![Watch Demo](images/video.png)](https://drive.google.com/file/d/1s_a6vADpGpUq7AbfZiCycSloXdL3gMgB/view?usp=drive_link)
+ [![Watch Demo](images/video.png)](https://drive.google.com/file/d/1EeBT7P1VFUVqaO5EAgUYxFD_gL0bPa8v/view?usp=drive_link)
 
 ### 🖼️ Screenshots
 <p align="center">
