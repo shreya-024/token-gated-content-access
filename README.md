@@ -51,7 +51,7 @@ token-gated-content-platform/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/shreya-024/token-gated-content-platform.git
+git clone https://github.com/shreya-024/token-gated-content-access.git
 cd token-gated-content-platform
 ```
 
